@@ -32,22 +32,18 @@ Additionner ces abonnements peut rapidement dépasser plusieurs dizaines, voire 
 
 ---
 
-## Mensuel vs annuel
+## Tableau récapitulatif des offres ToolScale (2025)
 
-Comme beaucoup de services SaaS, ToolScale propose généralement :
+> ℹ️ Tarifs observés sur la page officielle ToolScale au moment de la rédaction. Ils peuvent évoluer : toujours vérifier les prix à jour directement sur le site avant de communiquer.
 
-- une **formule mensuelle** :
-  - idéale pour tester la plateforme,
-  - adaptée aux projets ponctuels ou aux périodes de test intensif ;
-- une **formule annuelle** :
-  - pensée pour un usage récurrent,
-  - plus intéressante sur la durée si l’outil est intégré au quotidien.
+| Plan ToolScale | Profil visé                              | Prix mensuel (facturation mensuelle) | Réduction plan annuel | Équiv. annuel estimé*        |
+|----------------|------------------------------------------|--------------------------------------|------------------------|------------------------------|
+| Ecom Pro       | Ecommerçants & dropshippers             | **29,95 € / mois**                   | **-25 %**              | ≈ **269,55 € / an** (~22,46 €/mois) |
+| Content Pro    | Créateurs de contenu / social media     | **29,95 € / mois**                   | **-25 %**              | ≈ **269,55 € / an** (~22,46 €/mois) |
+| Elite          | Stack complet (Ecom + Content + bonus)  | **49,95 € / mois**                   | **-25 %**              | ≈ **449,55 € / an** (~37,46 €/mois) |
 
-La question centrale n’est pas seulement le prix affiché, mais :
+\*Estimations basées sur : `prix mensuel x 12 x 0,75` (réduction -25 % sur le plan annuel). Vérifier les montants exacts sur la page de tarification ToolScale avant de présenter ces chiffres comme définitifs.
 
-- la **régularité d’utilisation**,
-- la place que ToolScale prend dans le workflow,
-- la capacité de l’outil à **remplacer plusieurs autres abonnements**.
 
 ---
 
