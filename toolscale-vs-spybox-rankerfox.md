@@ -57,7 +57,7 @@ Son rôle est davantage tourné vers :
 - l’**analyse des marchés**,
 - l’observation de ce que font les concurrents,
 - la recherche d’opportunités en SEO, en pubs ou en produits.
-
+<https://spybox.io/?via=signup-git>
 ---
 
 ## Focus RankerFox 🦊 : SEO, liens et outils spécialisés
