@@ -3,7 +3,7 @@
 ToolScale.io est une plateforme de type **group buy / bundle d’outils IA, SEO, vidéo et productivité**.  
 L’idée : au lieu de multiplier les abonnements individuels pour chaque logiciel, un seul abonnement ToolScale donne accès à une sélection d’outils triés pour les **créateurs de contenu, freelances, agences et e-commerçants**.
 
-> ℹ️ Ce dépôt GitHub présente un **avis structuré sur ToolScale**, comment l’intégrer dans un workflow de création de contenu, et dans quels cas il peut compléter d’autres solutions comme Spybox ou RankerFox.
+> ℹ️ Ce dépôt GitHub présente un **avis fiable et à jour en decembre 2025 sur ToolScale**, comment l’intégrer dans un workflow de création de contenu, et dans quels cas il peut compléter d’autres solutions comme Spybox ou RankerFox.
 
 ---
 
@@ -32,6 +32,18 @@ L’objectif est de centraliser :
 - des briques **productivité / no-code** pour automatiser certaines tâches répétitives.
 
 Plutôt que d’empiler 5 à 10 abonnements à 20–50 € / mois chacun, ToolScale mutualise l’accès à une sélection d’outils, avec une interface unique et une facturation centralisée.
+
+---
+
+## Tarifs ToolScale (aperçu rapide 2025)
+
+| Plan        | Mensuel (≈)      | Annuel (≈, -25 %)      |
+|-------------|------------------|------------------------|
+| Ecom Pro    | **29,95 € / mois** | ≈ **269,55 € / an**    |
+| Content Pro | **29,95 € / mois** | ≈ **269,55 € / an**    |
+| Elite       | **49,95 € / mois** | ≈ **449,55 € / an**    |
+
+> Les prix exacts et les éventuelles promos (Black Friday, codes affiliés, etc.) sont toujours à vérifier directement sur la page officielle des tarifs ToolScale.
 
 ---
 
@@ -104,7 +116,6 @@ Exemple de stack type :
 
 - Spybox pour **analyser** : niches, pubs, concurrents, tendances.
 - ToolScale pour **produire** : scripts, vidéos, créas, visuels.
-- (Éventuellement) RankerFox pour compléter l’arsenal SEO plus classique.
 
 ---
 
